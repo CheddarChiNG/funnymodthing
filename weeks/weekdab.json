@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Encounter ", "dab", [255, 137, 137]]
+	],
+
+	"difficulties": "Hard",
+
+	"weekCharacters": [
+		"dab",
+		"bfdab",
+		"gfdab"
+	],
+	"weekBackground": "dab",
+
+	"storyName": "snowfall frenzy",
+	"weekBefore": "",
+	"weekName": "suskibidi",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
