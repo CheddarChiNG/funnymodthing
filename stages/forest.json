@@ -1,0 +1,13 @@
+{
+	"defaultZoom": 0.5
+
+	"boyfriend": [1150, 350],
+	"girlfriend": [550, 300],
+	"opponent": [300, 350],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-200, -50],
+	"camera_opponent": [200, -50],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}
