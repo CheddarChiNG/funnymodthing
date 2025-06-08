@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Midle",
+	"image": "Menu_Dab",
+	"position": [150, 231],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.5,
+	"confirm_anim": "Midle"
+}
