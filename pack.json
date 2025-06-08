@@ -1,0 +1,14 @@
+{
+	"name": "Vs Dab (DEMO)",
+	"description": "[WARNING, FLASHING LIGHTS] | We are so back
+Version 5:
+- Massive Overhaul (Visuals, Songs, Everything lmao)
+- Updated Psych Engine (0.6.3 -> 1.0)
+- Extra Content! (Menus, Freeplay)
+
+LOCK IN.",
+	"restart": true,
+	"runsGlobally": false,
+	"color": [255, 137, 137],
+	"discordRPC": "863222024192262205"
+}
