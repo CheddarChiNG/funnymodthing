@@ -1,6 +1,8 @@
 {
 	"songs": [
-		["Encounter ", "dab", [255, 137, 137]]
+		["Encounter", "dab", [255, 137, 137]],
+		["Glow", "dab", [255, 137, 137]],
+		["Impulse", "dab", [255, 137, 137]]
 	],
 
 	"difficulties": "Hard",
@@ -12,11 +14,12 @@
 	],
 	"weekBackground": "dab",
 
-	"storyName": "snowfall frenzy",
+	"storyName": "week name here",
 	"weekBefore": "",
 	"weekName": "suskibidi",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
 	"hideFreeplay": false
+
 }
