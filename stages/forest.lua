@@ -74,7 +74,7 @@ end
 function onCreate()
    makeLuaSprite('sky', 'snowy/sky', -500, -300);
 	setScrollFactor('sky', 1, 1)
-	scaleObject('sky', 1, 1)
+	scaleObject('sky', 2, 2)
 
    makeLuaSprite('city', 'snowy/city', -270, 0);
 	setScrollFactor('city', 1, 1)
@@ -88,9 +88,9 @@ function onCreate()
 	setScrollFactor('tree', 1, 1)
 	scaleObject('tree', 1, 1)
 
-   makeLuaSprite('stage', 'snowy/stage', -300, 650);
+   makeLuaSprite('stage', 'snowy/stage', -300, 670);
 	setScrollFactor('stage', 1, 1)
-	scaleObject('stags', 1, 1)
+	scaleObject('stags', 1.4, 1.4) 
 
    makeLuaSprite('lights1', 'snowy/fglight1', -1100, -400);
 	setScrollFactor('lights', 1, 1)
@@ -100,9 +100,9 @@ function onCreate()
 	setScrollFactor('lights2', 1, 1)
 	scaleObject('lights2', 1, 1)
 
-   makeLuaSprite('fg', 'snowy/fg', -450, 700);
-	setScrollFactor('fg', 1, 1)
-	scaleObject('fg', 1, 1)
+   makeLuaSprite('fg', 'snowy/fg', -900, 600);
+	setScrollFactor('fg', 0.9, 0.9)
+	scaleObject('fg', 1.3, 1.3)
 
    addLuaSprite('sky', false);
    addLuaSprite('city', false);
